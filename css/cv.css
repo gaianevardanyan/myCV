@@ -1,0 +1,51 @@
+body {
+	padding: 15px;
+}
+.container {
+	background-color: #EBE6DF;
+	border:3px solid orange;
+}
+.first_block {
+	background-color: #3E3E3E;
+	border-bottom:3px solid orange;
+}
+.second_block {
+	background-color: #FFB200;
+	border-bottom:3px solid orange;
+	border-left: 3px solid orange;
+}
+.date {
+	font-size: 13px;
+}
+.orange {
+	color: orange;
+}
+.fb_icon {
+	border-radius: 22px;
+	width: 42px;
+	height: 42px;
+}
+.main_img {
+	border: 3px solid orange;
+	border-radius: 70px;
+	 max-width: 100%;
+	 height: auto;
+}
+.n_s {
+	color: white;
+}
+.spec {
+	color: white;
+	font-size: 20px;
+}
+.inf {
+	padding-top: 75px;
+}
+.square {
+	width: 20px;
+}
+.p_s span {
+	border:1px solid gray;
+	padding: 3px;
+
+}
